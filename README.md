@@ -1,12 +1,17 @@
 # 👋 Hi, I'm Anish
 
-## 🚀 Who am I?
+##  Who am I?
 I am a student with a background in **full-stack web development (MERN stack)**.  
 Currently, I am transitioning into **AI/ML and Data Science**.
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
-## 🧠 What am I currently working on?
+##  What am I currently working on?
 - Learning **Data Science fundamentals** (Python, statistics, data analysis , ML , DL , GenAI Libraries)
 - Practicing **Data Structures & Algorithms**
 - Exploring **Machine Learning concepts**
@@ -14,7 +19,7 @@ Currently, I am transitioning into **AI/ML and Data Science**.
 - Strengthening **core CS subjects** (DBMS)
 
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 ### Programming & Data
 - Python, C, JavaScript  
