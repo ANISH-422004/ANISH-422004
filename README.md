@@ -18,7 +18,7 @@ Currently, I am transitioning into **AI/ML and Data Science**.
 
 ### Programming & Data
 - Python, C, JavaScript  
-- NumPy, Pandas (learning)  
+- NumPy, Pandas , Scikit-learn, PyTorch (learning)  
 - SQL, SQLite , PgAdmin  
 
 ### Web & Backend (Previous Experience)
